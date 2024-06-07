@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+html {
+    font-family: var(--font-main);
+  }
+  
+  section {
+    padding: 1.25em 2.25em;
+  }
+  
+  .grey {
+    color: var( --color-txt-light);
+  }
+  .bold {
+    font-weight: bold;
+  }
